@@ -1,0 +1,15 @@
+edu/uob/SQLKeywords.class
+edu/uob/DBClient.class
+edu/uob/HandleAlter.class
+edu/uob/DatabaseState.class
+edu/uob/CommandHandler.class
+edu/uob/HandleInsert.class
+edu/uob/HandleJoin.class
+edu/uob/HandleCreate.class
+edu/uob/EvaluateCondition.class
+edu/uob/HandleSelect.class
+edu/uob/HandleDelete.class
+edu/uob/DBServer.class
+edu/uob/HandleUpdate.class
+edu/uob/HandleUseDatabase.class
+edu/uob/HandleDrop.class
